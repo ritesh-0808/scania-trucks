@@ -1,11 +1,18 @@
 # scania-trucks
 
 
+
+
 Problem Statement-
 
     Defect detection in Air Pressure system (APS) of a truck.
     
-    architecture 
+![image](https://user-images.githubusercontent.com/76938173/162602784-a6115a91-20e4-4e3e-99a4-c7628ddc0037.png)
+![image](https://user-images.githubusercontent.com/76938173/162602790-0179ae55-a0ad-4909-afcd-e35233370b2d.png)
+
+    
+    
+  Project  architecture 
 
 ![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
 
