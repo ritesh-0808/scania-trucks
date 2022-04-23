@@ -65,7 +65,9 @@ Exploratory Data Analysis
 
 
 
-https://user-images.githubusercontent.com/76938173/164888599-1554ac6e-2e28-4bfb-ba79-2495ebdb4a72.mp4
+
+https://user-images.githubusercontent.com/76938173/164888599-1554ac6e-2e28-4bfb-ba79-2495ebdb4a72.mp4 
+
 
 
 
