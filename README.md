@@ -16,7 +16,89 @@ Problem Statement-
 
 ![image](https://user-images.githubusercontent.com/76938173/162401484-9ec75c9c-7d0f-4dfc-9048-313417f4e4f7.png)
 
+ 
+![2022-04-23 (2)](https://user-images.githubusercontent.com/76938173/164883407-bb202bd3-e72f-429a-9171-6e4816dd7b46.png)
 
+Training logs
+
+![2022-04-23 (3)](https://user-images.githubusercontent.com/76938173/164883413-ad1a20ad-a7b8-4f57-9981-315399baaae4.png)
+
+![2022-04-23 (4)](https://user-images.githubusercontent.com/76938173/164883427-7e3e376f-4287-4640-87d7-ea056ff23b1a.png)
+
+![2022-04-23 (5)](https://user-images.githubusercontent.com/76938173/164883433-387dabcb-4bb1-442d-b314-d100b52a8cfc.png)
+
+![2022-04-23 (6)](https://user-images.githubusercontent.com/76938173/164883440-ccab29c6-861c-4ce0-bf95-53542e8c0d46.png)
+
+![2022-04-23 (7)](https://user-images.githubusercontent.com/76938173/164883471-6e4e3506-e817-4ab9-88a9-3e5850f44a4f.png)
+
+![2022-04-23 (8)](https://user-images.githubusercontent.com/76938173/164883481-def1057d-e2c0-4218-af5c-9ce7e0d6327b.png)
+
+
+https://user-images.githubusercontent.com/76938173/164888599-1554ac6e-2e28-4bfb-ba79-2495ebdb4a72.mp4
+
+
+![2022-04-23 (9)](https://user-images.githubusercontent.com/76938173/164883487-0808aa3f-9d61-4025-a12e-ed2f2d74f9de.png)
+
+![2022-04-23 (10)](https://user-images.githubusercontent.com/76938173/164883502-44a1d237-a21a-4e5e-9edd-95d74933faad.png)
+
+![2022-04-23 (11)](https://user-images.githubusercontent.com/76938173/164883509-d8dd4e1a-1e4f-4788-99f3-e74826b7dffe.png)
+
+![2022-04-23 (12)](https://user-images.githubusercontent.com/76938173/164883525-c33102da-b2e7-4641-9118-50490259c731.png)
+
+![2022-04-23 (13)](https://user-images.githubusercontent.com/76938173/164883531-06ed35ab-603e-4992-8951-3a5a6a525d52.png)
+
+![2022-04-23 (14)](https://user-images.githubusercontent.com/76938173/164883544-e00b9178-cbcc-4347-a218-61a73de59219.png)
+
+![2022-04-23 (14)](https://user-images.githubusercontent.com/76938173/164883555-e6cdffeb-b6e5-4ea9-842a-82f12c132511.png)
+
+
+ 
+
+
+ 
+![2022-04-23 (15)](https://user-images.githubusercontent.com/76938173/164883564-b81c7341-d7bd-49ae-988d-a5fdc0bd9c96.png)
+
+![2022-04-23 (16)](https://user-images.githubusercontent.com/76938173/164883570-0e50907a-40d2-4dca-a0c7-e365465248e1.png)
+
+
+Exploratory Data Analysis
+
+
+
+https://user-images.githubusercontent.com/76938173/164888599-1554ac6e-2e28-4bfb-ba79-2495ebdb4a72.mp4
+
+
+
+Prediction  Logs
+
+
+![2022-04-23 (17)](https://user-images.githubusercontent.com/76938173/164885914-3ff58edd-5b23-46d7-8943-4d80d24901f5.png)
+
+![2022-04-23 (18)](https://user-images.githubusercontent.com/76938173/164885934-64a5da2a-aac0-4cfc-8c25-2b27b993065f.png)
+![2022-04-23 (19)](https://user-images.githubusercontent.com/76938173/164885949-67dd2e19-2475-433a-959c-bc25b9273400.png)
+
+![2022-04-23 (20)](https://user-images.githubusercontent.com/76938173/164885958-a9fe4f76-6d92-4ebe-9b55-59665a7014ed.png)
+ 
+ ![2022-04-23 (21)](https://user-images.githubusercontent.com/76938173/164885996-e3d96066-5cfc-4aa4-bc39-b31ceb55d119.png)
+
+ ![2022-04-23 (22)](https://user-images.githubusercontent.com/76938173/164886003-245a1858-cb5e-4b19-8de9-f62beab8fffd.png)
+
+ ![2022-04-23 (23)](https://user-images.githubusercontent.com/76938173/164886009-9e99dd99-4bcc-47ee-a616-538d847a136c.png)
+
+ ![2022-04-23 (24)](https://user-images.githubusercontent.com/76938173/164886016-fca93540-2cdb-459a-bbdf-b9b92a0e68da.png)
+
+ ![2022-04-23 (25)](https://user-images.githubusercontent.com/76938173/164886025-6a7a83bc-3032-4b0a-876b-9a2787f84fdb.png)
+
+ ![2022-04-23 (26)](https://user-images.githubusercontent.com/76938173/164886054-911076c9-15f9-430c-a480-a91cb5f68e91.png)
+
+ 
+ 
+ 
+ ![2022-04-23 (27)](https://user-images.githubusercontent.com/76938173/164886062-ccaefd56-337f-49c0-a838-22f98743b86d.png)
+
+ ![2022-04-23 (28)](https://user-images.githubusercontent.com/76938173/164886073-eb1b3548-ed41-49b6-a620-28ab2a25e171.png)
+
+ 
 
     
 
@@ -121,33 +203,3 @@ Prediction -
  
  
  
-
-requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
-
-![image](https://user-images.githubusercontent.com/76938173/162376078-d0e91df8-e89c-4e18-9b88-ca03f7b58902.png)
-
-main.py is the entry point of our application, where the flask server starts. 
-
-![image](https://user-images.githubusercontent.com/76938173/162376590-cf1edb79-8763-474c-a5f7-797928f90d94.png)
-
-This is the predictionFromModel.py file where the predictions take place based on the data we are giving input to the model.
-
-![image](https://user-images.githubusercontent.com/76938173/162376665-6b1d18b9-fd54-4fff-98a0-ee026695eb33.png)
-
-manifest.yml:- This file contains the instance configuration, app name, and build pack language.
-
-![image](https://user-images.githubusercontent.com/76938173/162376782-a0361867-8b81-4a8e-a0f4-18cf86ae30d4.png)
-
-Procfile :- It contains the entry point of the app.
-
-![image](https://user-images.githubusercontent.com/76938173/162376837-db80f1e3-2d8e-4bd2-9ac9-23ad92f2ce35.png)
-
-runtime.txt:- It contains the Python version number
-
-![image](https://user-images.githubusercontent.com/76938173/162376872-37b6ae6d-94d7-4d4a-ba29-5c8822543bf4.png)
-
-
-
-
-
-
